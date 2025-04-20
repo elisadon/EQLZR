@@ -29,9 +29,12 @@ Sounddevice
 Ctypes
 Comtypes
 
-
 ## Language(s) Used 
 Python 3.6+ 
+
+## Developers 
+sumach777 
+elisadon
 
 License
 This project is licensed under the MIT License - see the LICENSE file for details.
